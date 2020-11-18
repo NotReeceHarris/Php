@@ -18,7 +18,7 @@ CREATE TABLE users (
 ```
 
 ## Features within the login system
-1. sqlinjection protection 
+*1. sqlinjection protection 
 ```
 function createUser($conn, $name, $email, $uid, $pwd) {
   $sql = "INSERT INTO users (usersNAME, usersEMAIL, usersUID, usersPWD) VALUES (?, ?, ?, ?);";
@@ -38,7 +38,7 @@ function createUser($conn, $name, $email, $uid, $pwd) {
 }
 ```
 // this is done by making pre make statements to check the request
-2. this login system has 8 error checks wich include (emptyInputs, invalidUid, invalidEmail, passwordMatching, userAlreadyExists, etc)
-3. hashing passwords OBVIOUSLY it wouldnt be a login system if it didn't
-4. session checks
-5. header and footer includes using php
+*2. this login system has 8 error checks wich include (emptyInputs, invalidUid, invalidEmail, passwordMatching, userAlreadyExists, etc)
+*3. hashing passwords OBVIOUSLY it wouldnt be a login system if it didn't
+*4. session checks
+*5. header and footer includes using php
