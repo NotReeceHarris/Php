@@ -35,9 +35,8 @@ function createUser($conn, $name, $email, $uid, $pwd) {
   mysqli_stmt_close($stmt);
   header("location: ../login.php?error=none");
   exit();
-}
+} // this is done by making pre make statements to check the request
 ```
-* // this is done by making pre make statements to check the request
 * 2. this login system has 8 error checks wich include (emptyInputs, invalidUid, invalidEmail, passwordMatching, userAlreadyExists, etc)
 * 3. hashing passwords OBVIOUSLY it wouldnt be a login system if it didn't
 * 4. session checks
