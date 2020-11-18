@@ -9,7 +9,7 @@ you will find database name, address, login info chage to make them true
 2. create the correct table
 ```
 CREATE TABLE users (
-	usersID int(11) PRIMARY KEY AUTO_INCREMENT NOT NULL,
+    usersID int(11) PRIMARY KEY AUTO_INCREMENT NOT NULL,
     usersNAME varchar(128) NOT NULL,
     usersEMAIL varchar(128) NOT NULL,
     usersUID varchar(128) NOT NULL,
