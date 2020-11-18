@@ -5,7 +5,7 @@
 
   <div>
     <h1>Welcome</h1>
-    <p>This is my very creative website, ok maybe not. let me explain im not a front end developwe im not good at making creative websites however i am good at backend development.</p>
+    <p>This is my very creative website, ok maybe not. let me explain im not a front end developer im not good at making creative websites however i am good at backend development.</p>
     <p>to understand more about why i created this check out the <a href="about.php">about</a> page there is everything you need to know there.</p> <br>
 
     <?php
