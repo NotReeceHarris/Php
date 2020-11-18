@@ -5,11 +5,11 @@
   <div class="particles-js">
     <form action="inc/signup.inc.php" method="post">
       <h2> Sign Up page</h2>
-      <input type="text" name="fullName" placeholder="Full Name"> <br>
-      <input type="text" name="email" placeholder="Email"> <br>
-      <input type="text" name="uid" placeholder="Username"> <br>
-      <input type="password" name="pwd" placeholder="Pasword"> <br>
-      <input type="password" name="pwdRepeat" placeholder="Confirm Pasword"> <br>
+      <input type="text" name="fullName" placeholder="Full Name (Reece Harris)"> <br>
+      <input type="text" name="email" placeholder="Email (example@email.com)"> <br>
+      <input type="text" name="uid" placeholder="Username (ZenoEchozZ)"> <br>
+      <input type="password" name="pwd" placeholder="Pasword (we342\#%DFet)"> <br>
+      <input type="password" name="pwdRepeat" placeholder="Confirm Pasword (we342\#%DFet)"> <br>
       <button type="submit" name="submit">Submit</button>
     </form>
 
