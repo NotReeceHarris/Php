@@ -1,11 +1,11 @@
-# SIMPLE LOGIN SYSTEM WITH html, php, css, js
+# SIMPLE LOGIN SYSTEM WITH html, php, sql
 
 ## Configer config file
 Within the inc folder there will be a file named `dbh.inc.php`
 you will find database name, address, login info chage to make them true
 
 ## Create correct database
-1. create a phpmyadmin/sqli database names `logincreds`
+1. create a phpmyadmin/sql database names `logincreds`
 2. create the correct table
 ```
 CREATE TABLE users (
@@ -18,7 +18,7 @@ CREATE TABLE users (
 ```
 
 ## Features within the login system
-* 1. sqlinjection protection 
+* 1. sqli protection 
 ```
 function createUser($conn, $name, $email, $uid, $pwd) {
   $sql = "INSERT INTO users (usersNAME, usersEMAIL, usersUID, usersPWD) VALUES (?, ?, ?, ?);";
