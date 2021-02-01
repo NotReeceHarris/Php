@@ -12,7 +12,7 @@
 
 ## Update
 ```console
-This project is public limited to this.
+This project is public limited.
 ```
 
 ## Api Endpoints
