@@ -22,6 +22,3 @@ https://dtmwra1jsgyb0.cloudfront.net/stages/$stageId/standings/
 https://dtmwra1jsgyb0.cloudfront.net/tournaments/$id/teams/
 https://dtmwra1jsgyb0.cloudfront.net/tournaments/$id
 ```
-
-
-
