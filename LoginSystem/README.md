@@ -1,4 +1,14 @@
-# SIMPLE LOGIN SYSTEM WITH html, php, sql
+
+<p align=center>
+
+  <img src="https://i.imgur.com/u479LPz.png" alt="Api filtering" />
+
+  <br>
+  <br>
+  <span>Secure login system, code example.<br></span>
+  <br>
+  <a target="_blank" href="https://www.python.org/downloads/" title="Python version"><img src="https://img.shields.io/badge/php-8.0.1-green.svg"></a>
+</p>
 
 ## Configer config file
 Within the inc folder there will be a file named `dbh.inc.php`
@@ -7,7 +17,7 @@ you will find database name, address, login info chage to make them true
 ## Create correct database
 1. create a phpmyadmin/sql database names `logincreds`
 2. create the correct table
-```
+```sql
 CREATE TABLE users (
     usersID int(11) PRIMARY KEY AUTO_INCREMENT NOT NULL,
     usersNAME varchar(128) NOT NULL,
@@ -19,7 +29,7 @@ CREATE TABLE users (
 
 ## Features within the login system
 * 1. sqli protection 
-```
+```php
 function createUser($conn, $name, $email, $uid, $pwd) {
   $sql = "INSERT INTO users (usersNAME, usersEMAIL, usersUID, usersPWD) VALUES (?, ?, ?, ?);";
   $stmt = mysqli_stmt_init($conn);
