@@ -19,15 +19,5 @@ This project is public limited to this.
 ```php
 ```
 
-## Features
-* <strong>Randomization</strong>
-* <strong>Puzzles</strong>
-* <strong>Game saving features</strong>
-
-
-## How and why
-<span>With all education your set to make projects well this is our project just overcomplicated with 1mil+ possible runs</span>
-<span>This project heavily depends on randomness its a simple script for python but a over engineered script for an escaperoom</span>
-
 
 
