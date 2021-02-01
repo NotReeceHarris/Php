@@ -7,7 +7,7 @@
   <br>
   <span>Api filtering for https://battlefy.com/<br></span>
   <br>
-  <a target="_blank" href="https://www.python.org/downloads/" title="Python version"><img src="https://img.shields.io/badge/php-green.svg"></a>
+  <a target="_blank" href="https://www.python.org/downloads/" title="Python version"><img src="https://img.shields.io/badge/php-8.0.1-green.svg"></a>
 </p>
 
 ## Update
