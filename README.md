@@ -14,10 +14,5 @@
 This project is public limited to this.
 ```
 
-## Api Endpoints
-```php
-https://dtmwra1jsgyb0.cloudfront.net/tournaments/$id
-https://dtmwra1jsgyb0.cloudfront.net/stages/$stageId/standings/
-https://dtmwra1jsgyb0.cloudfront.net/tournaments/$id/teams/
-https://dtmwra1jsgyb0.cloudfront.net/tournaments/$id
-```
+## Current Projects
+* [API FILTERING](https://github.com/NotReeceHarris/Php-Examples/tree/main/API%20Filtering)
