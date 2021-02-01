@@ -1,6 +1,6 @@
 <p align=center>
 
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.technouz.com%2Fwp-content%2Fuploads%2F2017%2F02%2Fphp.png&f=1&nofb=1" alt="Api filtering" />
+  <img src="https://i.imgur.com/8bbSb3P.png" alt="Api filtering" />
 
   <br>
   <br>
