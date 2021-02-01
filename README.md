@@ -17,3 +17,4 @@ This project is public limited to this.
 ## Current Projects
 * [API FILTERING](https://github.com/NotReeceHarris/Php-Examples/tree/main/API%20Filtering) - Filtering data into useable information from a tournament site(battlefy.com)
 * [LOGIN SYS](https://github.com/NotReeceHarris/Php-Examples/tree/main/LoginSystem) - Simple but secure login system using sql
+* [BASICS](https://github.com/NotReeceHarris/Php-Examples/blob/main/Basics.php) - Php essentials 
