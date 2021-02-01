@@ -15,4 +15,4 @@ This project is public limited to this.
 ```
 
 ## Current Projects
-* [API FILTERING](https://github.com/NotReeceHarris/Php-Examples/tree/main/API%20Filtering)
+* [API FILTERING](https://github.com/NotReeceHarris/Php-Examples/tree/main/API%20Filtering) - Filtering data into useable information from a tournament site(battlefy.com)
